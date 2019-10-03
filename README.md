@@ -6,3 +6,4 @@ A list of vulnerabilities identified and documented by [Roche](https://roche.com
 
 - [CVE-2017-11175](/CVE-2017-11175.md) - XSS in Innovations FIN Stack 4.0
 - [CVE-2019-12834](/CVE-2019-12834.md) - XSS in Learning Locker
+- [CVE-2019-16911](/CVE-2019-16911.md) - Information Disclosure in HWg-STE2
